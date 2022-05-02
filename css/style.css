@@ -1,0 +1,23 @@
+.fondo{
+    background-color: #eee98d;
+    padding-top: 100px;
+}
+.barra{
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+.titulo{
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+.texto{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#img1{
+    
+}
+.icono svg{
+    width: 50px;
+}
