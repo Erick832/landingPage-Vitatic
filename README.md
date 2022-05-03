@@ -1,2 +1,2 @@
 # landingPage-Vitatic
-Proyecto de desarrollo de software
+Proyecto de Ingeniería de Software
